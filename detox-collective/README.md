@@ -1,7 +1,4 @@
 # Detox Collective
-
-A hackathon-ready MVP scaffold for the Collective Digital Detox Challenge.
-
 This repository contains a minimal backend (Flask) and a minimal frontend (React skeleton) to get started quickly.
 
 Structure
@@ -42,3 +39,4 @@ Next steps
 - Wire Firebase project and add client config to `frontend/src/firebase.js`
 - Replace placeholders in backend env example with real values
 - Add Dialogflow credentials and enable webhook if using chatbot
+
