@@ -19,7 +19,6 @@ node --version   # Should show v18 or later
 ## Project Setup (After installing prerequisites)
 1. Backend (Flask)
 ```powershell
-cd C:\Users\asuja\detox-collective\backend
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -27,11 +26,11 @@ pip install -r requirements.txt
 
 2. Frontend (React)
 ```powershell
-cd C:\Users\asuja\detox-collective\frontend
 npm install
 npm start
 ```
 
 ## Common Issues
 - If Python/Node commands not found: Close and reopen PowerShell
+
 - For Python Windows Store error: Disable app execution aliases in Windows Settings
